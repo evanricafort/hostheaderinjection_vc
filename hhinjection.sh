@@ -4,7 +4,7 @@ set -u
 # Evan Ricafort - (X - @evanricafort | Web - https://evanricafort.com)
 #
 # Usage:
-#  ./host_inject.sh -f targets.txt -H "www.evanricafort.com" -B none -D -c 4 -v
+#  ./hhinjection.sh -f targets.txt -H "www.evanricafort.com" -B none -D -c 4 -v
 #
 # Options:
 #  -t TARGET     Single target (URL or host:port). scheme auto-prepended (http://) if missing.
